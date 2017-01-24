@@ -1,0 +1,84 @@
+
+{"playlist":[
+          {
+            "song": "The End Of The World",
+            "artist": "Skeeter Davis",
+            "album": "The End Of The World",
+            "votes": 0,
+            "description": "One of the first women to achieve major stardom in the country music field as a solo vocalist",
+            "video_path": "videos/EndOfTheWorld.mp4",
+            "photo_path": "img/theendoftheworld.jpg"
+          },
+          {
+            "song": "Best Of You",
+            "artist": "Foo Fighters",
+            "album": "In Your Honor",
+            "votes": 0,
+            "description": "Is a song by American alternative rock band Foo Fighters, and the first single released from the bands fifth studio album, In Your Honor (2005).",
+            "video_path": "videos/BestOfYou.mp4",
+            "photo_path": "img/inyourhonor.jpg"
+          },
+          {
+            "song": "Tie A Yellow Ribbon",
+            "artist": "Brotherhoood Of Man",
+            "album": "Insert album here",
+            "votes": 0,
+            "description": "Is a song by Dawn featuring Tony Orlando. It was written by Irwin Levine and L. Russell Brown and produced by Hank Medress and Dave Appell",
+            "video_path": "videos/TieAYellowRibbon.mp4",
+            "photo_path": "img/thedown.jpg"
+          },
+          {
+            "song": "Waiting A Girl Like You",
+            "artist": "Foreigner",
+            "album": "4",
+            "votes": 0,
+            "description": "Is a Platinum-certified 1981 power ballad by the British-American rock band Foreigner.",
+            "video_path": "videos/WaitingForAGirlLikeYou.mp4",
+            "photo_path": "img/4.jpg"
+          },
+          {
+            "song": "Should I Stay Or Should I Go",
+            "artist": "The Clash",
+            "album": "Combat Rock",
+            "votes": 0,
+            "description": "Is a song by the English punk rock band the Clash, from their album Combat Rock.",
+            "video_path": "videos/ShouldIStayOrShouldIGo.mp4",
+            "photo_path": "img/combatrock.jpg"
+          },
+          {
+            "song": "Super Sexy Girl",
+            "artist": "Fundacion Tony Manero",
+            "album": "Que No Pare El Beat!",
+            "votes": 0,
+            "description": "La Fundación Tony Manero se formó en 1996 con la intención de revivir el disco",
+            "video_path": "videos/SuperSexyGirl.mp4",
+            "photo_path": "img/quenopareelbeat.jpg"
+          },
+           {
+            "song": "(All I Wanted Was) Danger - Radio Edit",
+            "artist": "The Milk",
+            "album": "Tales From the Thames Delta",
+            "votes": 0,
+            "description": "White boys struggling to convey the passion and soul of 60s rnb",
+            "video_path": "videos/AllIWantedWasDanger.mp4",
+            "photo_path": "img/talesfromthethamesdelta.jpg"
+          },
+          {
+            "song": "Daft Funk (feat. Mr. Talkbox)",
+            "artist": "Nathan East & Mr Talkbox",
+            "album": "Nathan East",
+            "votes": 0,
+            "description": "Mr.Talkbox is an American Christian hip hop and Christian R&B musician",
+            "video_path": "videos/DaftFunk.mp4",
+            "photo_path": "img/nathaneast.jpg"
+          },
+          {
+            "song": "Its A Man",
+            "artist": "Betty Hutton",
+            "album": "The Very Best Of Betty Hutton",
+            "votes": 0,
+            "description": "February 26, 1921 – March 12, 2007)[1] was an American stage, film, and television actress, comedian, dancer and singer.",
+            "video_path": "videos/ItsAMan.mp4",
+            "photo_path": "img/theverybestofbettyhutton.jpg"
+          }
+]}

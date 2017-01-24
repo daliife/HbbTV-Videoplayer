@@ -1,0 +1,213 @@
+body{
+	background-color: #80808000 !important;
+}
+
+td{
+	font-family: "Helvetica Neue";
+}
+
+#button, #fullscreen{
+	position: absolute;
+	top: 85%;
+	left: 6%;
+	z-index: -100 !important;
+}
+
+.focus{
+	z-index: -1000;
+}
+
+#fullscreen{
+	visibility: hidden;
+	z-index: 1;
+}
+
+.btn-personalized{
+	font-size: 25px!important;
+	background-color: rgba(255,255,255,0.85);
+	border-radius: 0px!important;
+	-webkit-box-shadow: 0px 0px 10px 2px rgba(0,0,0,1);
+	-moz-box-shadow: 0px 0px 10px 2px rgba(0,0,0,1);
+	box-shadow: 0px 0px 10px 2px rgba(0,0,0,1);
+	opacity: 1!important;
+}
+
+.text-bold{
+	font-weight: bold;
+}
+
+.btn{
+	border-radius: 0px!important;
+}
+
+.shadow{
+	-webkit-box-shadow: 0px 0px 12px 4px rgba(0,0,0,1)!important;
+	-moz-box-shadow: 0px 0px 12px 4px rgba(0,0,0,1)!important;
+	box-shadow: 0px 0px 12px 4px rgba(0,0,0,1)!important;
+	opacity: 1!important;
+}
+
+#numbers {
+	visibility: hidden;
+	padding-top: 165px!important;
+	z-index: -99!important;
+}
+#randomnumbers{
+	font-family: "Helvetica Neue";
+}
+#menu{
+	visibility: hidden;
+	position: absolute;
+	top: 4%;
+	left: 4%;
+	margin-top: 15px;
+}
+
+#background{
+	visibility: hidden;
+}
+
+#img-background{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -50;
+}
+
+#active{
+	-webkit-box-shadow: 0px 0px 10px 2px rgba(255,255,255,0.5);
+	-moz-box-shadow: 0px 0px 10px 2px rgba(255,255,255,0.5);
+	box-shadow: 0px 0px 10px 2px rgba(255,255,255,0.5);
+	opacity: 1!important;
+	color: black!important;
+	background-color: white!important;
+}
+
+#information{
+	padding-top: 15px!important;
+	background-color: white!important;
+}
+
+#video{
+	width: 100%;
+	height: auto;
+	text-align: center;
+	z-index: 1000;
+}
+
+#image-thumbnail{
+	width: 100%;
+	height: 250px;
+	text-align: center;
+}
+
+.add-top{
+	margin-top: 45px!important;
+}
+
+.jumbotron{
+	padding: 45px!important!important;
+}
+
+#description{
+	height: 3em;
+	overflow: ellipsis;
+}
+
+.panel{
+	border-radius: 0px!important;
+	margin-bottom: 0px!important;
+	border: none!important;
+}
+
+.well{
+	max-height: 150px;
+	height: 100px;
+	position: relative;
+	margin-bottom: 20px;
+	border: none!important;
+	border-radius: 0px!important;
+	color: white;
+	background-color: rgba(55,55,55,0.85);
+
+}
+
+.rounded-borders{
+	border-radius: 5px!important;
+}
+
+.fix-height{
+	height: 66px;
+}
+
+.album-image{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: auto;
+	height: 100%;
+}
+
+.song-name{
+	position: absolute;
+	font-weight: bold;
+	left: 18%;
+	top:5%;
+}
+
+.album-name{
+	position: absolute;
+	font-weight: normal;
+	left: 18%;
+	top:35%;
+}
+
+.artist-name{
+	position: absolute;
+	font-weight: normal;
+	left: 18%;
+	top:60%;
+}
+
+.votes{
+	position: absolute;
+	right: 5%;
+	top:40%;
+	font-size: 14px;
+}
+
+.description{
+	position: absolute;
+	right: 5%;
+	top: 40%;
+}
+
+.up-icon{
+	position: absolute;
+	top: 10%;
+	right: 20%;
+	font-size: 20px!important;
+}
+
+.middle-icon{
+	position: absolute;
+	top: 40%;
+	right: 20%;
+	font-size: 20px!important;
+}
+
+.down-icon{
+	position: absolute;
+	top: 70%;
+	right: 20%;
+	font-size: 20px!important;
+}
+
+
+/*-----------COLORS----------*/
+.red{ color: red}
+.blue{ color: blue}
+.yellow{ color: yellow}
+.green{ color: green}
